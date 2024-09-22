@@ -1,0 +1,34 @@
+.A{
+        
+        position: absolute; /* Set up positioning context */
+        width: 1643px;
+        height: 661px;
+        margin : 0px;
+        gap: 0px;
+        top: 47px;
+        left: 38px;
+        border: 2px solid #000000;
+
+}
+.B{
+    position: absolute; /* Absolute positioning within the container */
+
+width: 1051px;
+height: 894px;
+top: 742px;
+left: 58px;
+gap: 0px;
+opacity: 0px;
+
+}
+.C{
+    position:absolute;
+    width: 1623px;
+height: 469px;
+top: 1795px;
+left: 58px;
+gap: 0px;
+opacity: 0px;
+
+}
+
